@@ -2,6 +2,14 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
 
+# About the Project
+
+This is a frontend application developed using Angular for listing the employee details.
+
+Functionalities includes adding new employees, updating and deleting existing employees and listing all the employees.
+
+User Interface is built completely using Angular and Bootstrap.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
